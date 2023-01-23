@@ -1,0 +1,201 @@
+
+
+
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  }
+
+
+
+
+
+
+
+
+
+
+
+.list-text li a {
+    color: rgb(241, 236, 236);
+    text-align: center;
+
+    
+}
+.list-text li a:hover{
+    color: white;
+}
+.list-text li ul li a{
+    color: black;
+}
+.list-text li ul li :hover{
+    color: rgb(22, 18, 18);
+}
+
+
+.nav-btn1{
+    background-color: white ;
+    text-decoration: none;
+    border-radius: 8px;
+    color: black;
+    font-weight: 600;
+    border: solid 2px #2BC9B4;
+    transition: 0.8s;
+
+}
+.nav-btn1:hover{
+    background-color: #2BC9B4;
+    color: aliceblue;
+}
+
+.nav-btn2{
+    background-color:#2BC9B4 ;
+    text-decoration: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    transition: 0.8s;
+
+}
+.nav-btn2:hover{
+    background-color: #866BFE;
+    color: aliceblue;
+}
+.sec-color{
+    background : linear-gradient(90deg, #4E19A5 68%, #fff 68%);
+    color: aliceblue;
+}
+.p-start{
+    font-size: 24px;
+    color: rgb(166, 165, 165);
+}
+.start-btn1{
+    text-decoration: none;
+    background-color: #2BC9B4;
+    color: aliceblue;
+    border-radius: 7px;
+    transition: 0.8s;
+    font-weight: 600;
+    
+}
+.start-btn2{
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 7px;
+    border: solid 2px  rgb(166, 165, 165);
+    transition: 0.8s;
+    font-weight: 600;
+    
+    
+}
+.start-btn2:hover{
+    background-color: #866BFE;
+    color: white;
+    
+}
+.start-btn1:hover{
+    background-color: #866BFE;
+    color: white;
+}
+.big-link{
+    background-color: #39167E ;
+    text-decoration: none;
+    color: white;
+    border-radius: 7px;
+    transition: 0.8s;
+}
+.big-link:hover{
+    background-color: #180747;
+    color: white;
+}
+.icon-link{
+    text-decoration: none;
+    color: #4e367e;
+}
+.right-icon{
+   
+    padding: 8px;
+    border-radius: 25px;
+}
+.right-icon:hover{
+    background-color: #2BC9B4;
+    color: white;
+    transition: 0.5s;
+}
+
+.img-container{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img-one{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.img-tow{
+    width: 65%;
+    position: absolute;
+    top: 12px;
+  left: 145px;
+  padding-bottom: 20px;
+  padding-right: 18px;
+  border-radius: 5%;
+  
+}
+.img-list{
+    list-style: none;
+}
+
+.crypto-h1{
+    color: #5B53A2;
+}
+.crypto-icon{
+    background-color:#4E19A5 ;
+    color: white;
+
+}
+.crypto-button{
+    text-decoration: none;
+    background-color:#2BC9B4 ;
+    border-radius: 8px;
+    color: white;
+    transition: 0.5s;
+}
+.crypto-button:hover{
+color: white;
+background-color: #866BFE;
+}
+
+.ico-crypto-icon{
+    background-color: #866BFE;
+    border-radius: 18px;
+    color: white;
+}
+.ico-crypto{
+    color: #5B53A2;
+}
+.start-btn22{
+    color: #5B53A2;
+    text-decoration: none;
+    border-radius: 7px;
+    border: solid 2px  rgb(166, 165, 165);
+    transition: 0.5s;
+    font-weight: 600;
+}
+.start-btn22:hover{
+    background-color: #866BFE;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
