@@ -189,6 +189,40 @@ background-color: #866BFE;
     
 }
 
+.last-sec{
+    background-color: #F7F8FF;
+}
+
+.last-btn{
+    background-color:#2BC9B4;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: 0.5s;
+}
+.last-btn:hover{
+ color: white;
+ background-color:#866BFE;
+}
+
+.footer-sec{
+    background-color: #39167E;
+    color: white;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+
+}
+.footer-link:hover{
+    color: rgb(76, 75, 75);
+}
+.footer-h2{
+    color: #2BC9B4;
+    margin-bottom: 40px;
+}
 
 
 
