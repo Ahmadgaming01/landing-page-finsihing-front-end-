@@ -14,11 +14,14 @@
 
 
 
-
+ .list-text{
+    padding-right: 158px;
+ }
 
 .list-text li a {
     color: rgb(241, 236, 236);
     text-align: center;
+    
 
     
 }
@@ -61,10 +64,33 @@
     background-color: #866BFE;
     color: aliceblue;
 }
+
+
+
+@media screen and (min-width : 1140px) and (max-width : 1140px ){
+    .sec-color{
+        background : linear-gradient(90deg, #4E19A5 70%, #fff 68% ) ;
+        color: aliceblue;
+    }
+      }
+
+
+
+@media screen and (min-width : 990px){
+    .sec-color{
+        background : linear-gradient(90deg, #4E19A5 68%, #fff 68% ) ;
+        color: aliceblue;
+        transition: 0.5s;
+    }
+      }
+
+@media screen and (min-width : 480px){
 .sec-color{
-    background : linear-gradient(90deg, #4E19A5 68%, #fff 68%);
+
+    background-color: #4E19A5 ;
     color: aliceblue;
-}
+    }
+  }
 .p-start{
     font-size: 24px;
     color: rgb(166, 165, 165);
@@ -116,6 +142,7 @@
    
     padding: 8px;
     border-radius: 25px;
+    background-color: white;
 }
 .right-icon:hover{
     background-color: #2BC9B4;
