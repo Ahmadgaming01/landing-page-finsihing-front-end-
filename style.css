@@ -159,9 +159,20 @@
     position: relative;
     top: 0;
     left: 0;
+    padding-left: 20px;
 }
 .img-tow{
-    width: 65%;
+    width: 63%;
+    position: absolute;
+    top: 10px;
+  left: 130px;
+  
+  
+  border-radius: 5%;
+  
+}
+.img-three{
+    width: 60%;
     position: absolute;
     top: 12px;
   left: 145px;
@@ -169,7 +180,7 @@
   padding-right: 18px;
   border-radius: 5%;
   
-}
+} */
 .img-list{
     list-style: none;
 }
